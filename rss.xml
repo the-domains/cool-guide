@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Really.News]]></title>
+        <description><![CDATA[Really.News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 21:56:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Explosion at Cape Canaveral]]></title>
+            <description><![CDATA[<article><h1>Explosion at Cape Canaveral</h1><p>Base response teams are still working to confirm if there are any injuries, Purtell said. He could not confirm if the incident involved SpaceX. CNNMoney (New York) First published September 1, 2016: 9:40 AM ET</p><img src="http://i2.cdn.turner.com/money/dam/assets/150825092446-san-francisco-street-view-336x188.jpg"></article>]]></description>
+            <link>http://money.cnn.com/2016/09/01/news/companies/spacex-explosion/index.html</link>
+            <guid isPermaLink="false">a653af5b-35a5-41a9-b936-d1a60b2b4e68</guid>
+            <pubDate>Thu, 01 Sep 2016 21:54:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
