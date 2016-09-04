@@ -1,5 +1,29 @@
-title: null
-purpose: []
+typography_spectrum: 0.39094
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 0
+  brandColors:
+    - '#5B4A43'
+    - '#B49992'
+    - '#91776E'
+    - '#E8B589'
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74542
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: cool.guide
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,29 +36,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 1
-  lightness: 0
-  brandColors:
-    - '#5B4A43'
-    - '#B49992'
-    - '#91776E'
-    - '#E8B589'
-  rhythmicContrast: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: cool.guide
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.39094
-layout_spectrum: 0.74542
+title: null
+purpose: []
